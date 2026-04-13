@@ -37,7 +37,7 @@ O projeto é mantido em um único arquivo de forma enxuta, contendo:
 Como é um arquivo TypeScript puro, você precisará do Node.js e do TypeScript instalados.
 
 **1. Clone o repositório ou baixe o arquivo:**
-> git clone https://github.com/seu-usuario/seu-repositorio.git
+> git clone https://github.com/ThierryTorino/LED-E-commerce-Logic.git
 
 **2. Execute usando `ts-node` (forma mais rápida):**
 > npx ts-node nome-do-arquivo.ts
